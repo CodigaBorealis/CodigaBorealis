@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codigaborealis&label=Profile%20views&color=0e75b6&style=flat" alt="codigaborealis" /> </p>
 
-- 📚I'm currently pursuing a degree in Software Engineering at the [UACJ](https://www.uacj.mx/oferta/programas.html?programa=45120&121)
+- 📚I'm pursuing a degree in Software Engineering at the [UACJ](https://www.uacj.mx/oferta/programas.html?programa=45120&121)
 
 - 🌱 I’m currently learning **C++ and Pytorch**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Java** and OOP
 
 - ⚡ I'm interested in learning more about **AI and low level programming**
 
