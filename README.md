@@ -5,7 +5,7 @@
 
 - 📚I'm currently pursuing a degree in Software Engineering at the [UACJ](https://www.uacj.mx/oferta/programas.html?programa=45120&121)
 
-- 🌱 I’m currently learning **C++,Pytorch**
+- 🌱 I’m currently learning **C++ and Pytorch**
 
 - 💬 Ask me about **Java**
 
