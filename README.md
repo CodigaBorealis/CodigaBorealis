@@ -5,9 +5,9 @@
 
 - 📚I'm currently pursuing a degree in Software Engineering at the [UACJ](https://www.uacj.mx/oferta/programas.html?programa=45120&121)
 
-- 🌱 Currently learning **C++,Pytorch**
+- 🌱 Learning **C++,Pytorch**
 
-- ⚡ Interested in learning more about **AI and low level programming**
+- ⚡ Interested in  **AI and low level programming**
 
 <h3 align="left">My leetcode:</h3>
 <p align="left">
