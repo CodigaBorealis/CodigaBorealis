@@ -1,24 +1,51 @@
-<h1 align="center">Hi 👋, I'm Line</h1>
+<h1 align="center">Hi 👋, I'm Line  <a href="https://leetcode.com/Xenire" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Xenire" height="30" width="40" /></a>
+</h1>
 <h3 align="center">A sofware engineering student from Mexico!🇲🇽</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codigaborealis&label=Profile%20views&color=0e75b6&style=flat" alt="codigaborealis" /> </p>
 
 - 📚I'm currently pursuing a degree in Software Engineering at the [UACJ](https://www.uacj.mx/oferta/programas.html?programa=45120&121)
 
-- 🌱 Learning **C++,Pytorch**
+- 🌱 Learning **SFML**
 
-- ⚡ Interested in  **AI and low level programming**
-<h3 align="left">Connect with me:</h3>
+- ⚡ Interested in  **Low level and systems programming**
+
+<h3 align="left">My stack:</h3>
+<h3 align="left">General purpose languages</h3>
 <p align="left">
-<a href="https://github.com/CodigaBorealis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="CodigaBorealis" height="30" width="40" /></a>
-<a href="https://leetcode.com/Xenire" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Xenire" height="30" width="40" /></a>
+<img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> 
+<img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </p>
+<h3>Frameworks</h3>
+<p align="left"> 
+<img src="https://skillicons.dev/icons?i=qt" alt="qt" width="40" height="40"/></p>
+<h3>IDE and text editors</h3>
+<p align="left"> 
+<img src="https://skillicons.dev/icons?i=vscode" alt="qt" width="40" height="40"/> 
+<img src="https://skillicons.dev/icons?i=visualstudio" alt="qt" width="40" height="40"/> 
+<img src="https://skillicons.dev/icons?i=vim" alt="qt" width="40" height="40"/> 
 </p>
+<h3>Web development</h3>
+<p align="left"> 
+<img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> 
+<img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> 
+<img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> 
+<img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> 
+ <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/>
+ <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> 
+ </p>
+ <h3>Tools</h3>
+<p align="left"> 
+<img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> 
+<img src="https://skillicons.dev/icons?i=github" alt="git" width="40" height="40"/> 
+ <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/>  </p>
+<h3>Database</h3>
+<p align="left">
+ <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> 
+ </p>
+<h3>Design</h3>
+<p align="left"> 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mariadb" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/php" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/qt" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=qt" alt="qt" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CodigaBorealis&show_icons=true&locale=en&layout=compact" alt="CodigaBorealis" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CodigaBorealis&show_icons=true&locale=en" alt="CodigaBorealis" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CodigaBorealis&" alt="CodigaBorealis" /></p>
+<img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> 
+ <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/>
+  </p>
